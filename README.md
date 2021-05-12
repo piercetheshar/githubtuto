@@ -1,2 +1,2 @@
 # githubtuto
-edurekas tuto
+edurekas tutorial for git and github
